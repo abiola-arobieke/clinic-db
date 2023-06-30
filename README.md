@@ -10,7 +10,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -47,10 +46,6 @@ that has been treated and their payment invoice.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](Comming Soon)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -79,7 +74,7 @@ Clone this repository to your desired folder:
 Using the commands below:
 
 ```sh
-  git clone https://github.com/abiola-arobieke/clinic-database.git
+  git clone https://github.com/abiola-arobieke/clinic-db.git
 ```
 
 Open the project on your code editor
@@ -92,11 +87,18 @@ Open the project on your code editor
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author**
+👤 **Javed Shahbaz**
+
+- GitHub: [@Javed-Shahbaz](https://github.com/Javed-Shahbaz)
+- Twitter: [@javedshahbaz007](https://twitter.com/javedshahbaz007)
+- LinkedIn: [@javedshahbaz](https://www.linkedin.com/in/javedshahbaz/)
+
+👤 **Abiola Arobieke**
 
 - GitHub: [@abiola-arobieke](https://github.com/abiola-arobieke)
 - Linkedin: [@abiola-arobieke](https://linkedin.com/in/abiola-arobieke)
 - Twitter: [@abiola_arobieke](https://twitter.com/abiola_arobieke)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -113,7 +115,7 @@ Open the project on your code editor
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/abiola-arobieke/clinic-database/issues).
+Feel free to check the [issues page](https://github.com/abiola-arobieke/clinic-db.git/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
